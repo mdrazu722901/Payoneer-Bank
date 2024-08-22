@@ -1,0 +1,39 @@
+body {
+    padding: 100px;
+}
+
+.login-box {
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+#check-Amount-section {
+    display: none;
+}
+
+.status {
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+    margin: 5px;
+}
+
+.Withdraw {
+    background-color: red;
+}
+
+.Deposit {
+    background-color: yellowgreen;
+}
+
+.Balance {
+    background-color: saddlebrown;
+}
+
+.box {
+    box-shadow: 5px 5px 10px gray;
+    padding: 40px 10px;
+    border-radius: 10px;
+    margin: 40px;
+}
